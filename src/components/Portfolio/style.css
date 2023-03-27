@@ -1,0 +1,11 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.image-container img {
+  margin-right: 10px; /* add 10px space between images */
+}
